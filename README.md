@@ -10,3 +10,21 @@
 ## IP PREFIX
 
 `192.232`
+
+## Daftar Isi
+
+- [Topology](#topology)
+- [Rute](#rute)
+- [Pembagian IP](#pembagian-ip)
+
+## Topology
+
+![alt text](/img/top.png)
+
+## Rute
+
+![alt text](/img/rute.png)
+
+## Pembagian IP
+
+![alt text](/img/pembagian-ip.png)
